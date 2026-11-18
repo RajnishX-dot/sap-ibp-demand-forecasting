@@ -21,9 +21,9 @@ Models were trained on 2013–2016 (periods 1–48) and tested on 2017
 
 | Approach | Average MAPE (2017) |
 |---|---|
-| Naive for all items | __% |
-| Holt-Winters for all items | __% |
-| Best-fit model per item | __% |
+| Naive for all items | _4.30_% |
+| Holt-Winters for all items | _4.29_% |
+| Best-fit model per item | _4.27_% |
 
 Naive was the better model for **33** items and Holt-Winters for **17**.
 No single model was best across the range, which is why per-item model
