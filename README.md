@@ -50,5 +50,6 @@ statistical vs consensus forecast · best-fit model selection ·
 forecast error (MAPE) and bias · alerts
 
 ## Files
-- `Demand_Forecasting.xlsx` — the full workbook
-- `planning-view.png`, `actual-vs-forecast.png`, `results.png`, `mape-comparison.png`
+
+* [Demand_Forecasting.xlsx](Demand_Forecasting.xlsx) — the full workbook
+* [Planning View.png](Planning%20View.png), [actual-vs-forecast.png](actual-vs-forecast.png), [results.png](results.png), [mape-comparison.png](mape-comparison.png)
