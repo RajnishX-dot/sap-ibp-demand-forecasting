@@ -17,7 +17,7 @@ Models were trained on 2013–2016 (periods 1–48) and tested on 2017
 - **Holt-Winters (FORECAST.ETS)** — level, trend and 12-month seasonality
 - Accuracy measured with **MAPE**; direction of error measured with **bias**
 
-![Planning View](Planning-View.png)
+![Planning View](Planning%20View.png)
 *IBP-style planning view: time buckets across, key figures down.*
 
 ![MAPE comparison](mape-comparison.png)
