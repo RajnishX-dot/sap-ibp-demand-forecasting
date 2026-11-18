@@ -46,4 +46,4 @@ forecast error (MAPE) and bias · alerts
 
 ## Files
 - `Demand_Forecasting.xlsx` — the full workbook
-- `screenshots/` — planning view, charts, results
+- `planning-view.png`, `actual-vs-forecast.png`, `results.png`, `mape-comparison.png`
